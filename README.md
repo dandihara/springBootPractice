@@ -8,4 +8,7 @@
 
 - DB : mysql
 
-- 위의 연습으로 aws 배포 경험 / tdd 
+- aws 배포 코드 추가
+
+- oAuth2.0
+
